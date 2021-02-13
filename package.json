@@ -1,6 +1,6 @@
 {
   "name": "week3demo1",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": true,
   "scripts": {
     "start": "node ./server.js"
@@ -17,17 +17,17 @@
     "morgan": "~1.9.1",
     "popper.js": "^1.16.1"
   },
-  "description": "demo",
+  "description": "Final Project",
   "main": "app.js",
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/spushpa5/testdemosite.git"
+    "url": "git+https://github.com/spushpa5/sreelakshmiDemo.git"
   },
-  "author": "",
+  "author": "Sreelakshmi Pushpan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/spushpa5/testdemosite/issues"
+    "url": "https://github.com/spushpa5/sreelakshmiDemo/issues"
   },
-  "homepage": "https://github.com/spushpa5/testdemosite#readme"
+  "homepage": "https://github.com/spushpa5/sreelakshmiDemo#readme"
 }
