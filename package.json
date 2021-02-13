@@ -1,6 +1,6 @@
 {
   "name": "week3demo1",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node ./server.js"
@@ -16,5 +16,18 @@
     "jquery": "^3.5.1",
     "morgan": "~1.9.1",
     "popper.js": "^1.16.1"
-  }
+  },
+  "description": "demo",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spushpa5/testdemosite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spushpa5/testdemosite/issues"
+  },
+  "homepage": "https://github.com/spushpa5/testdemosite#readme"
 }
